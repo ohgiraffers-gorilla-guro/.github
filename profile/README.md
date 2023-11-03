@@ -17,7 +17,7 @@
 
 ### Front
 #### html : [html](https://github.com/ohgiraffers-gorilla-guro/01-html)
-#### CSS : 
+#### CSS : [css](https://github.com/ohgiraffers-gorilla-guro/02-CSS.git)
 ----
 
 ### Project
