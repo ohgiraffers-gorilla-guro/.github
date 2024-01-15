@@ -22,7 +22,7 @@
 #### CSS : [css](https://github.com/ohgiraffers-gorilla-guro/02-CSS.git)
 ----
 
-### Project
+### Framework
 #### Spring-core [Spring-core](https://github.com/ohgiraffers-gorilla-guro/09_spring-core)
 #### Spring-MVC [Spring-MVC](https://github.com/ohgiraffers-gorilla-guro/A-05-01-03-Spring-WebMVC)
 #### Mybatis [Mybatis](https://github.com/ohgiraffers-gorilla-guro/07_mybatis)
